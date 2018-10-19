@@ -1,0 +1,13 @@
+{
+    "name": "xingwenge/composer_study",
+    "description": "learning composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xingwenge",
+            "email": "470703808@qq.com"
+        }
+    ],
+    "require": {}
+}
